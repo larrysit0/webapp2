@@ -16,7 +16,7 @@ comunidades = {
 }
 
 # 🌐 URL base de tu WebApp
-BASE_URL = "https://alarma-production.up.railway.app"
+BASE_URL = "https://"
 
 # 📤 Enviar botón adecuado según el tipo de chat
 def enviar_boton(chat_id, nombre, chat_type):
